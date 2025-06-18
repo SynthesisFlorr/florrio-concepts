@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="256" height="256" viewBox="0 0 67.333 67.333" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="x" x="-.375" y="-.375" width="1.75" height="1.75">
+      <feGaussianBlur stdDeviation=".423"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="v" x="-1.11" y="-1.11" width="3.22" height="3.22">
+      <feGaussianBlur stdDeviation=".83"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="t" x="-2.325" y="-2.325" width="5.65" height="5.65">
+      <feGaussianBlur stdDeviation="1.372"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="n" x="-2.325" y="-2.325" width="5.65" height="5.65">
+      <feGaussianBlur stdDeviation="1.372"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="p" x="-1.11" y="-1.11" width="3.22" height="3.22">
+      <feGaussianBlur stdDeviation=".83"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="r" x="-.375" y="-.375" width="1.75" height="1.75">
+      <feGaussianBlur stdDeviation=".423"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="b" x="-2.325" y="-2.325" width="5.65" height="5.65">
+      <feGaussianBlur stdDeviation="1.372"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="d" x="-1.11" y="-1.11" width="3.22" height="3.22">
+      <feGaussianBlur stdDeviation=".83"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="f" x="-.375" y="-.375" width="1.75" height="1.75">
+      <feGaussianBlur stdDeviation=".423"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="h" x="-2.325" y="-2.325" width="5.65" height="5.65">
+      <feGaussianBlur stdDeviation="1.372"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="j" x="-1.11" y="-1.11" width="3.22" height="3.22">
+      <feGaussianBlur stdDeviation=".83"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="l" x="-.375" y="-.375" width="1.75" height="1.75">
+      <feGaussianBlur stdDeviation=".423"/>
+    </filter>
+  </defs>
+  <rect style="display:inline;fill:#041e26;fill-opacity:1;fill-rule:evenodd;stroke:beige;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:7.8;paint-order:markers stroke fill" width="67.333" height="67.333" ry="0"/>
+  <g id="y" transform="translate(-65.185 19.504)">
+    <use xlink:href="#a" style="filter:url(#b)"/>
+    <use x="0" y="0" xlink:href="#c" id="a" style="filter:url(#d)"/>
+    <use x="0" y="0" xlink:href="#e" id="c" style="filter:url(#f)"/>
+    <circle style="fill:#06d6a0;fill-opacity:1;fill-rule:evenodd;stroke:beige;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:7.8;paint-order:markers stroke fill" id="e" cx="12.987" cy="19.872" r="1.355"/>
+  </g>
+  <g id="B" transform="translate(-49.877 19.504)">
+    <use xlink:href="#g" style="filter:url(#h)"/>
+    <use x="0" y="0" xlink:href="#i" id="g" style="filter:url(#j)"/>
+    <use x="0" y="0" xlink:href="#k" id="i" style="filter:url(#l)"/>
+    <circle style="fill:#118ab2;fill-opacity:1;fill-rule:evenodd;stroke:beige;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:7.8;paint-order:markers stroke fill" id="k" cx="12.987" cy="19.872" r="1.355"/>
+  </g>
+  <g id="z" transform="translate(-34.57 4.196)">
+    <use xlink:href="#m" style="filter:url(#n)"/>
+    <use x="0" y="0" xlink:href="#o" id="m" style="filter:url(#p)"/>
+    <use x="0" y="0" xlink:href="#q" id="o" style="filter:url(#r)"/>
+    <circle style="fill:#ffd166;fill-opacity:1;fill-rule:evenodd;stroke:beige;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:7.8;paint-order:markers stroke fill" id="q" cx="12.987" cy="19.872" r="1.355"/>
+  </g>
+  <g id="A" transform="translate(-65.185 4.196)">
+    <use xlink:href="#s" style="filter:url(#t)"/>
+    <use x="0" y="0" xlink:href="#u" id="s" style="filter:url(#v)"/>
+    <use x="0" y="0" xlink:href="#w" id="u" style="filter:url(#x)"/>
+    <circle style="fill:#ef476f;fill-opacity:1;fill-rule:evenodd;stroke:beige;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:7.8;paint-order:markers stroke fill" id="w" cx="12.987" cy="19.872" r="1.355"/>
+  </g>
+  <use xlink:href="#y" transform="translate(111.685 -18.273)" style="display:inline"/>
+  <use xlink:href="#z" transform="translate(29.014 35.09)" style="display:inline"/>
+  <use xlink:href="#A" transform="translate(103.425 -14.3)" style="display:inline"/>
+  <use xlink:href="#y" transform="translate(58.841 -26.69)" style="display:inline"/>
+  <use xlink:href="#y" transform="translate(75.469 -12.41)" style="display:inline"/>
+  <use xlink:href="#A" transform="translate(61.951 18.54)"/>
+  <use xlink:href="#A" transform="translate(111.58 15.17)" style="display:inline"/>
+  <use xlink:href="#B" transform="translate(77.995 -13.772)" style="display:inline"/>
+  <use xlink:href="#y" transform="translate(102.679 22.7)" style="display:inline"/>
+  <use xlink:href="#B" transform="translate(98.168 11.688)" style="display:inline"/>
+  <use xlink:href="#z" transform="translate(42.987 -14.219)"/>
+  <use xlink:href="#B" transform="translate(78.23 7.319)"/>
+  <use xlink:href="#A" transform="translate(76.04 31.736)"/>
+</svg>
+
